@@ -1,14 +1,27 @@
 # Olá! como vai?👋
 
-Meu nome é Marcus, estou na minha jornada para me tornar um desenvolver back-end. Meu ensino médio foi concluido integrado com o curso de Informática para a Internet na Etec Professor Adhemar Batista Heméritas. Atualmente estou na Universidade FAM, realizando o tecnólogo Análise e Desenvolviment de Sistemas. Também realizo um curso de java a parte na plataforma Udemy.
+Estou em minha jornada para me tornar um desenvolvedor Back-End.
+
+Concluí o ensino médio integrado ao curso técnico de Informática para a Internet pela Etec Professor Adhemar Batista Heméritas, onde tive meus primeiros contatos com programação e desenvolvimento web.
+
+Atualmente curso Análise e Desenvolvimento de Sistemas na Universidade FAM e continuo me aprofundando em desenvolvimento Back-End com Java, realizando também um curso complementar na plataforma Udemy.
+
+## 🚀 Tecnologias
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-## 🚀 Tecnologias
-- java
-- sql
-- javascript
-- html
-- css
-- git & github
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## Contatos:
+linkedin: https://www.linkedin.com/in/marcus-v-alberes-barbosa-666875398/
+Email: marcus.alberes@gmail.com
