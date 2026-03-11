@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá! como vai?👋
 
-<!--
-**MarcusBar/MarcusBar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Marcus, estou na minha jornada para me tornar um desenvolver back-end. Meu ensino médio foi concluido integrado com o curso de Informática para a Internet na Etec Professor Adhemar Batista Heméritas. Atualmente estou na Universidade FAM, realizando o tecnólogo Análise e Desenvolviment de Sistemas. Também realizo um curso de java a parte na plataforma Udemy.
 
-Here are some ideas to get you started:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+- java
+- sql
+- javascript
+- html
+- css
+- git & github
+
